@@ -1,4 +1,4 @@
-namespace TravelBlog.Helpers
+namespace AnimalShelter.Helpers
 {
   public class AppSettings
   {

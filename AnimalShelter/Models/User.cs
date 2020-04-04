@@ -1,4 +1,4 @@
-namespace TravelBlog.Models
+namespace AnimalShelter.Models
 {
   public class User
   {
